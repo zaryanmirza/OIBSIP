@@ -6,7 +6,7 @@ A responsive, static landing page for **Nova Studio**, a fictional creative digi
 
 ## Demo
 
-- Demo video (LinkedIn): [add your LinkedIn post link here]
+- Demo video (LinkedIn): https://lnkd.in/p/dmqPQTeU
 
 ## Screenshots
 
